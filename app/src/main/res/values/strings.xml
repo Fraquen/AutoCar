@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoCar</string>
+
+    <string name="buttonMenu_text">Menu</string>
+    <string name="buttonControllers_text">Controllers</string>
+    <string name="buttonOther_text">Other</string>
+</resources>
